@@ -1,0 +1,2380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>TR3 Test Feed — Yango Ads / AIR</title>
+    <link>https://example.com/tr3-test-feed</link>
+    <description>Тестовый фид на 80 офферов (4 бренда x 20). Данные фейковые, картинки реальные.</description>
+    <lastBuildDate>Fri, 11 Sep 2026 11:27:59 +0300</lastBuildDate>
+    <item>
+      <g:id>MAN-10211</g:id>
+      <title>Kaşe Dokulu Oversize Blazer Ceket - Lacivert</title>
+      <description>Kaşe Dokulu Oversize Blazer Ceket - Lacivert. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/kase-dokulu-oversize-blazer-ceket-lacivert-10211</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/10211.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3699.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8695106429705</g:gtin>
+      <g:mpn>10211</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Kadın &gt; Dış Giyim &gt; Ceket</g:product_type>
+      <g:color>Lacivert</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-10211</g:item_group_id>
+      <g:quantity>117</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-11052</g:id>
+      <title>Keten Dokulu Kolsuz Midi Elbise - Bej</title>
+      <description>Keten Dokulu Kolsuz Midi Elbise - Bej. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/keten-dokulu-kolsuz-midi-elbise-bej-11052</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/11052.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2509.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8698814677543</g:gtin>
+      <g:mpn>11052</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>2271</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Elbise</g:product_type>
+      <g:color>Bej</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-11052</g:item_group_id>
+      <g:quantity>47</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-11181</g:id>
+      <title>Deri Görünümlü Shopper Çanta - Siyah</title>
+      <description>Deri Görünümlü Shopper Çanta - Siyah. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/deri-gorunumlu-shopper-canta-siyah-11181</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/11181.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2749.99 TRY</g:price>
+      <g:sale_price>1929.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8698716359431</g:gtin>
+      <g:mpn>11181</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-11181</g:item_group_id>
+      <g:quantity>128</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-12817</g:id>
+      <title>Fitilli Dokulu Mini Etek - Camel</title>
+      <description>Fitilli Dokulu Mini Etek - Camel. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/fitilli-dokulu-mini-etek-camel-12817</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/12817.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1439.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8692202507542</g:gtin>
+      <g:mpn>12817</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1581</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Etek</g:product_type>
+      <g:color>Camel</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-12817</g:item_group_id>
+      <g:quantity>72</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-12960</g:id>
+      <title>Volan Detaylı Midi Etek - Ekru</title>
+      <description>Volan Detaylı Midi Etek - Ekru. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/volan-detayli-midi-etek-ekru-12960</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/12960.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2019.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8690285535223</g:gtin>
+      <g:mpn>12960</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1581</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Etek</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>L</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-12960</g:item_group_id>
+      <g:quantity>99</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-13557</g:id>
+      <title>Uzun Kollu Body - Kahve</title>
+      <description>Uzun Kollu Body - Kahve. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/uzun-kollu-body-kahve-13557</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/13557.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>939.99 TRY</g:price>
+      <g:sale_price>689.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8692308317618</g:gtin>
+      <g:mpn>13557</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Body</g:product_type>
+      <g:color>Kahve</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-13557</g:item_group_id>
+      <g:quantity>208</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-14496</g:id>
+      <title>Keten Dokulu Beli Büzgülü Tunik - Haki</title>
+      <description>Keten Dokulu Beli Büzgülü Tunik - Haki. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/keten-dokulu-beli-buzgulu-tunik-haki-14496</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/14496.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2249.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8695755647697</g:gtin>
+      <g:mpn>14496</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Tunik</g:product_type>
+      <g:color>Haki</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-14496</g:item_group_id>
+      <g:quantity>161</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-15367</g:id>
+      <title>Pileli Katlı Uzun Abiye Elbise - Kırık Beyaz</title>
+      <description>Pileli Katlı Uzun Abiye Elbise - Kırık Beyaz. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/pileli-katli-uzun-abiye-elbise-kirik-beyaz-15367</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/15367.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>5359.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8694166867588</g:gtin>
+      <g:mpn>15367</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>2271</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Abiye Elbise</g:product_type>
+      <g:color>Kırık Beyaz</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-15367</g:item_group_id>
+      <g:quantity>84</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-16373</g:id>
+      <title>Keten Dokulu Oversize Gömlek - Beyaz</title>
+      <description>Keten Dokulu Oversize Gömlek - Beyaz. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/keten-dokulu-oversize-gomlek-beyaz-16373</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/16373.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1659.99 TRY</g:price>
+      <g:sale_price>1399.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8693622895752</g:gtin>
+      <g:mpn>16373</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Gömlek</g:product_type>
+      <g:color>Beyaz</g:color>
+      <g:size>L</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-16373</g:item_group_id>
+      <g:quantity>195</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-16749</g:id>
+      <title>Kemerli Geniş Kollu Gömlek - Antrasit</title>
+      <description>Kemerli Geniş Kollu Gömlek - Antrasit. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/kemerli-genis-kollu-gomlek-antrasit-16749</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/16749.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2129.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8695678393534</g:gtin>
+      <g:mpn>16749</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Gömlek</g:product_type>
+      <g:color>Antrasit</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-16749</g:item_group_id>
+      <g:quantity>110</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-16905</g:id>
+      <title>Deri Dokulu Omuz Çantası - Siyah</title>
+      <description>Deri Dokulu Omuz Çantası - Siyah. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/deri-dokulu-omuz-cantasi-siyah-16905</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/16905.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2599.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8692750894170</g:gtin>
+      <g:mpn>16905</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-16905</g:item_group_id>
+      <g:quantity>152</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-17111</g:id>
+      <title>Kruvaze Geniş Yakalı Uzun Kaban - Kahve</title>
+      <description>Kruvaze Geniş Yakalı Uzun Kaban - Kahve. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/kruvaze-genis-yakali-uzun-kaban-kahve-17111</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/17111.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>6129.99 TRY</g:price>
+      <g:sale_price>4109.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8692406632552</g:gtin>
+      <g:mpn>17111</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Kadın &gt; Dış Giyim &gt; Kaban</g:product_type>
+      <g:color>Kahve</g:color>
+      <g:size>L</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-17111</g:item_group_id>
+      <g:quantity>236</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-17294</g:id>
+      <title>Fiyonk Detaylı Puf Çanta - Haki</title>
+      <description>Fiyonk Detaylı Puf Çanta - Haki. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/fiyonk-detayli-puf-canta-haki-17294</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/17294.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>2479.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8691121831653</g:gtin>
+      <g:mpn>17294</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Haki</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-17294</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-17580</g:id>
+      <title>Bomber Kesim Ceket - Açık Haki</title>
+      <description>Bomber Kesim Ceket - Açık Haki. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/bomber-kesim-ceket-acik-haki-17580</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/17580.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2569.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8691676892734</g:gtin>
+      <g:mpn>17580</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Kadın &gt; Dış Giyim &gt; Ceket</g:product_type>
+      <g:color>Açık Haki</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-17580</g:item_group_id>
+      <g:quantity>50</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-17655</g:id>
+      <title>Altın Kaplama Burgu Yüzük</title>
+      <description>Altın Kaplama Burgu Yüzük. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/altin-kaplama-burgu-yuzuk-17655</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/17655.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>699.99 TRY</g:price>
+      <g:sale_price>529.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8694401928890</g:gtin>
+      <g:mpn>17655</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>200</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Takı</g:product_type>
+      <g:color>Altın</g:color>
+      <g:size>16</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-17655</g:item_group_id>
+      <g:quantity>19</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-18247</g:id>
+      <title>Keten Dokulu Blazer Ceket - Siyah</title>
+      <description>Keten Dokulu Blazer Ceket - Siyah. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/keten-dokulu-blazer-ceket-siyah-18247</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/18247.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3409.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8697623970203</g:gtin>
+      <g:mpn>18247</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Kadın &gt; Dış Giyim &gt; Ceket</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-18247</g:item_group_id>
+      <g:quantity>125</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-18449</g:id>
+      <title>Fitilli Dizüstü Çorap - Gri</title>
+      <description>Fitilli Dizüstü Çorap - Gri. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/fitilli-dizustu-corap-gri-18449</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/18449.jpg</g:image_link>
+      <g:availability>preorder</g:availability>
+      <g:price>329.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8692764391085</g:gtin>
+      <g:mpn>18449</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>213</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Çorap</g:product_type>
+      <g:color>Gri</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-18449</g:item_group_id>
+      <g:quantity>172</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-18460</g:id>
+      <title>Fitilli Kalın Çorap - Antrasit</title>
+      <description>Fitilli Kalın Çorap - Antrasit. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/fitilli-kalin-corap-antrasit-18460</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/18460.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>429.99 TRY</g:price>
+      <g:sale_price>329.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8691201883350</g:gtin>
+      <g:mpn>18460</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>213</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Çorap</g:product_type>
+      <g:color>Antrasit</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-18460</g:item_group_id>
+      <g:quantity>49</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-18658</g:id>
+      <title>Fiyonk Detaylı Mini Çanta - Lacivert</title>
+      <description>Fiyonk Detaylı Mini Çanta - Lacivert. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/fiyonk-detayli-mini-canta-lacivert-18658</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/18658.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>2059.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8699989280408</g:gtin>
+      <g:mpn>18658</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Lacivert</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-18658</g:item_group_id>
+      <g:quantity>237</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>MAN-8593</g:id>
+      <title>Keten Dokulu Bol Paça Pantolon - Bej</title>
+      <description>Keten Dokulu Bol Paça Pantolon - Bej. Manuka koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.manuka.com.tr/urun/keten-dokulu-bol-paca-pantolon-bej-8593</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/manuka/8593.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1739.99 TRY</g:price>
+      <g:brand>Manuka</g:brand>
+      <g:gtin>8694198225042</g:gtin>
+      <g:mpn>8593</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>204</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Pantolon</g:product_type>
+      <g:color>Bej</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>MAN-8593</g:item_group_id>
+      <g:quantity>180</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Manuka</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-A0566AX26SPBK81</g:id>
+      <title>Slim Fit Dar Paça Eşofman Altı - Siyah</title>
+      <description>Slim Fit Dar Paça Eşofman Altı - Siyah. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/slim-fit-dar-paca-esofman-alti-siyah-A0566AX26SPBK81</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/A0566AX26SPBK81.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>699.99 TRY</g:price>
+      <g:sale_price>449.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8697097341950</g:gtin>
+      <g:mpn>A0566AX26SPBK81</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5697</g:google_product_category>
+      <g:product_type>Kadın &gt; Spor Giyim &gt; Eşofman Altı</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-A0566A</g:item_group_id>
+      <g:quantity>124</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-B5867A8GR525</g:id>
+      <title>Erkek Çocuk Esnek Belli Şort - Ekru</title>
+      <description>Erkek Çocuk Esnek Belli Şort - Ekru. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/erkek-cocuk-esnek-belli-sort-ekru-B5867A8GR525</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/B5867A8GR525.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>409.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8699464495716</g:gtin>
+      <g:mpn>B5867A8GR525</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Erkek Çocuk &gt; Şort</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>9-10 Yaş</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-B5867A</g:item_group_id>
+      <g:quantity>235</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-B7786A8AR162</g:id>
+      <title>Kız Çocuk Yüksek Bel Tayt - Antrasit</title>
+      <description>Kız Çocuk Yüksek Bel Tayt - Antrasit. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kiz-cocuk-yuksek-bel-tayt-antrasit-B7786A8AR162</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/B7786A8AR162.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>319.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8699148702444</g:gtin>
+      <g:mpn>B7786A8AR162</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Kız Çocuk &gt; Tayt</g:product_type>
+      <g:color>Antrasit</g:color>
+      <g:size>7-8 Yaş</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-B7786A</g:item_group_id>
+      <g:quantity>184</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-C4474AX25WNBK27</g:id>
+      <title>Regular Fit Bisiklet Yaka Kazak - Siyah</title>
+      <description>Regular Fit Bisiklet Yaka Kazak - Siyah. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/regular-fit-bisiklet-yaka-kazak-siyah-C4474AX25WNBK27</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/C4474AX25WNBK27.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>949.99 TRY</g:price>
+      <g:sale_price>699.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8698858789165</g:gtin>
+      <g:mpn>C4474AX25WNBK27</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Kazak</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>L</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-C4474A</g:item_group_id>
+      <g:quantity>109</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-C7660AXBN564</g:id>
+      <title>Kısa Kollu Keten Görünümlü Gömlek - Turuncu</title>
+      <description>Kısa Kollu Keten Görünümlü Gömlek - Turuncu. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kisa-kollu-keten-gorunumlu-gomlek-turuncu-C7660AXBN564</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/C7660AXBN564.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>579.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8693299040806</g:gtin>
+      <g:mpn>C7660AXBN564</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Erkek &gt; Giyim &gt; Gömlek</g:product_type>
+      <g:color>Turuncu</g:color>
+      <g:size>M</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-C7660A</g:item_group_id>
+      <g:quantity>131</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-E0990AX25SMWT34</g:id>
+      <title>Regular Fit Düğmeli Triko Yelek - Beyaz</title>
+      <description>Regular Fit Düğmeli Triko Yelek - Beyaz. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/regular-fit-dugmeli-triko-yelek-beyaz-E0990AX25SMWT34</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/E0990AX25SMWT34.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>559.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8699204644831</g:gtin>
+      <g:mpn>E0990AX25SMWT34</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Yelek</g:product_type>
+      <g:color>Beyaz</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-E0990A</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-E8355A5PN648</g:id>
+      <title>Bebek Kız Uzun Kollu Basic Tişört - Pembe</title>
+      <description>Bebek Kız Uzun Kollu Basic Tişört - Pembe. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/bebek-kiz-uzun-kollu-basic-tisort-pembe-E8355A5PN648</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/E8355A5PN648.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.99 TRY</g:price>
+      <g:sale_price>189.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8696014212366</g:gtin>
+      <g:mpn>E8355A5PN648</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Bebek &gt; Kız Bebek &gt; Tişört</g:product_type>
+      <g:color>Pembe</g:color>
+      <g:size>12-18 Ay</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>infant</g:age_group>
+      <g:item_group_id>DEF-E8355A</g:item_group_id>
+      <g:quantity>169</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Bebek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-E8688A8BR194</g:id>
+      <title>Erkek Çocuk Kapüşonlu Şişme Mont - Bordo</title>
+      <description>Erkek Çocuk Kapüşonlu Şişme Mont - Bordo. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/erkek-cocuk-kapusonlu-sisme-mont-bordo-E8688A8BR194</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/E8688A8BR194.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1179.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8695277796989</g:gtin>
+      <g:mpn>E8688A8BR194</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Erkek Çocuk &gt; Mont</g:product_type>
+      <g:color>Bordo</g:color>
+      <g:size>10-11 Yaş</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-E8688A</g:item_group_id>
+      <g:quantity>182</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-F0236AXPN141</g:id>
+      <title>2'li Paket Dantel Detaylı Külot - Pudra</title>
+      <description>2'li Paket Dantel Detaylı Külot - Pudra. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/2li-paket-dantel-detayli-kulot-pudra-F0236AXPN141</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/F0236AXPN141.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>249.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8691521899604</g:gtin>
+      <g:mpn>F0236AXPN141</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>213</g:google_product_category>
+      <g:product_type>Kadın &gt; İç Giyim &gt; Külot</g:product_type>
+      <g:color>Pudra</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-F0236A</g:item_group_id>
+      <g:quantity>41</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-F3969AXGD1</g:id>
+      <title>14 Ayar Altın Kaplama İnce Bileklik</title>
+      <description>14 Ayar Altın Kaplama İnce Bileklik. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/14-ayar-altin-kaplama-ince-bileklik-F3969AXGD1</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/F3969AXGD1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>649.99 TRY</g:price>
+      <g:sale_price>399.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8695820449843</g:gtin>
+      <g:mpn>F3969AXGD1</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>200</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Takı</g:product_type>
+      <g:color>Altın</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-F3969A</g:item_group_id>
+      <g:quantity>44</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-G2630AXBR103</g:id>
+      <title>Çiçek Desenli Pamuklu Boxer - Ekru</title>
+      <description>Çiçek Desenli Pamuklu Boxer - Ekru. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/cicek-desenli-pamuklu-boxer-ekru-G2630AXBR103</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/G2630AXBR103.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>259.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8690823772967</g:gtin>
+      <g:mpn>G2630AXBR103</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>213</g:google_product_category>
+      <g:product_type>Erkek &gt; İç Giyim &gt; Boxer</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>L</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-G2630A</g:item_group_id>
+      <g:quantity>70</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-G5917AXGN10</g:id>
+      <title>Pure Korean Anti Aging Yüz Maskesi 27 ml</title>
+      <description>Pure Korean Anti Aging Yüz Maskesi 27 ml. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/pure-korean-anti-aging-yuz-maskesi-27-ml-G5917AXGN10</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/G5917AXGN10.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>109.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8695175126925</g:gtin>
+      <g:mpn>G5917AXGN10</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>2915</g:google_product_category>
+      <g:product_type>Kozmetik &gt; Cilt Bakımı &gt; Maske</g:product_type>
+      <g:size>27 ml</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-G5917A</g:item_group_id>
+      <g:quantity>169</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kozmetik</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-G6814A826SMBG399</g:id>
+      <title>Kız Çocuk Geniş Paça Jean Pantolon - Camel</title>
+      <description>Kız Çocuk Geniş Paça Jean Pantolon - Camel. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kiz-cocuk-genis-paca-jean-pantolon-camel-G6814A826SMBG399</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/G6814A826SMBG399.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>659.99 TRY</g:price>
+      <g:sale_price>529.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8695380483875</g:gtin>
+      <g:mpn>G6814A826SMBG399</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Kız Çocuk &gt; Jean</g:product_type>
+      <g:color>Camel</g:color>
+      <g:size>8-9 Yaş</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-G6814A</g:item_group_id>
+      <g:quantity>227</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-G9536A8NM55</g:id>
+      <title>Kız Çocuk Düz Paça Jean Pantolon - Mavi</title>
+      <description>Kız Çocuk Düz Paça Jean Pantolon - Mavi. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kiz-cocuk-duz-paca-jean-pantolon-mavi-G9536A8NM55</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/G9536A8NM55.jpg</g:image_link>
+      <g:availability>preorder</g:availability>
+      <g:price>589.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8691535509797</g:gtin>
+      <g:mpn>G9536A8NM55</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Kız Çocuk &gt; Jean</g:product_type>
+      <g:color>Mavi</g:color>
+      <g:size>9-10 Yaş</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-G9536A</g:item_group_id>
+      <g:quantity>55</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-G9704AXNSKR1</g:id>
+      <title>Kare Çerçeveli Güneş Gözlüğü - Kahve</title>
+      <description>Kare Çerçeveli Güneş Gözlüğü - Kahve. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kare-cerceveli-gunes-gozlugu-kahve-G9704AXNSKR1</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/G9704AXNSKR1.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>629.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8694442990481</g:gtin>
+      <g:mpn>G9704AXNSKR1</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>178</g:google_product_category>
+      <g:product_type>Aksesuar &gt; Güneş Gözlüğü</g:product_type>
+      <g:color>Kahve</g:color>
+      <g:size>Std</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-G9704A</g:item_group_id>
+      <g:quantity>17</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Aksesuar</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-H0858AXER238</g:id>
+      <title>Normal Bel A Kesim Midi Etek - Ekru</title>
+      <description>Normal Bel A Kesim Midi Etek - Ekru. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/normal-bel-a-kesim-midi-etek-ekru-H0858AXER238</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/H0858AXER238.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>809.99 TRY</g:price>
+      <g:sale_price>569.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8695713320365</g:gtin>
+      <g:mpn>H0858AXER238</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1581</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Etek</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-H0858A</g:item_group_id>
+      <g:quantity>232</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-H2754AXBR190</g:id>
+      <title>Fermuar Detaylı El Çantası - Bordo</title>
+      <description>Fermuar Detaylı El Çantası - Bordo. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/fermuar-detayli-el-cantasi-bordo-H2754AXBR190</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/H2754AXBR190.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>859.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8690940415747</g:gtin>
+      <g:mpn>H2754AXBR190</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Bordo</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-H2754A</g:item_group_id>
+      <g:quantity>19</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-H2920A8BK81</g:id>
+      <title>Erkek Çocuk Basketbol Şortu - Siyah</title>
+      <description>Erkek Çocuk Basketbol Şortu - Siyah. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/erkek-cocuk-basketbol-sortu-siyah-H2920A8BK81</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/H2920A8BK81.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>359.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8693194044114</g:gtin>
+      <g:mpn>H2920A8BK81</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5424</g:google_product_category>
+      <g:product_type>Çocuk &gt; Erkek Çocuk &gt; Şort</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>11-12 Yaş</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>DEF-H2920A</g:item_group_id>
+      <g:quantity>104</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-H4379AXBK27</g:id>
+      <title>Halka Detaylı Omuz Çantası - Siyah</title>
+      <description>Halka Detaylı Omuz Çantası - Siyah. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/halka-detayli-omuz-cantasi-siyah-H4379AXBK27</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/H4379AXBK27.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>649.99 TRY</g:price>
+      <g:sale_price>439.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8699749065887</g:gtin>
+      <g:mpn>H4379AXBK27</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>6551</g:google_product_category>
+      <g:product_type>Kadın &gt; Aksesuar &gt; Çanta</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>Std</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-H4379A</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>DEF-H5282AX26SPBE281</g:id>
+      <title>Kolsuz V Yaka Mini Elbise - Mavi</title>
+      <description>Kolsuz V Yaka Mini Elbise - Mavi. DeFacto koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.defacto.com.tr/p/kolsuz-v-yaka-mini-elbise-mavi-H5282AX26SPBE281</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/defacto/H5282AX26SPBE281.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>719.99 TRY</g:price>
+      <g:brand>DeFacto</g:brand>
+      <g:gtin>8693998312198</g:gtin>
+      <g:mpn>H5282AX26SPBE281</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>2271</g:google_product_category>
+      <g:product_type>Kadın &gt; Giyim &gt; Elbise</g:product_type>
+      <g:color>Mavi</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>DEF-H5282A</g:item_group_id>
+      <g:quantity>78</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>DeFacto</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725440385159</g:id>
+      <title>Terletmeyen Dokuma Şal 75x75 cm - Zümrüt Yeşili</title>
+      <description>Terletmeyen Dokuma Şal 75x75 cm - Zümrüt Yeşili. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/terletmeyen-dokuma-sal-75x75-cm-zumrut-yesili-43725440385159</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725440385159.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>429.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8695393032640</g:gtin>
+      <g:mpn>43725440385159</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Zümrüt Yeşili</g:color>
+      <g:size>75x75 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437254</g:item_group_id>
+      <g:quantity>141</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725442711687</g:id>
+      <title>Yumuşak Dokulu Düz Şal 190 cm - Bordo</title>
+      <description>Yumuşak Dokulu Düz Şal 190 cm - Bordo. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/yumusak-dokulu-duz-sal-190-cm-bordo-43725442711687</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725442711687.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>469.99 TRY</g:price>
+      <g:sale_price>299.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8691504876707</g:gtin>
+      <g:mpn>43725442711687</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Bordo</g:color>
+      <g:size>190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437254</g:item_group_id>
+      <g:quantity>116</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725451788423</g:id>
+      <title>Floş Pamuk Karışımlı Şal 73x200 cm - Haki</title>
+      <description>Floş Pamuk Karışımlı Şal 73x200 cm - Haki. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/flos-pamuk-karisimli-sal-73x200-cm-haki-43725451788423</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725451788423.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>469.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8690542050285</g:gtin>
+      <g:mpn>43725451788423</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Haki</g:color>
+      <g:size>73x200 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437254</g:item_group_id>
+      <g:quantity>70</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725488324743</g:id>
+      <title>Çiçek Desenli Viskon Şal 72x194 cm - Lacivert</title>
+      <description>Çiçek Desenli Viskon Şal 72x194 cm - Lacivert. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/cicek-desenli-viskon-sal-72x194-cm-lacivert-43725488324743</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725488324743.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>639.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8696309991457</g:gtin>
+      <g:mpn>43725488324743</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Lacivert</g:color>
+      <g:size>72x194 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437254</g:item_group_id>
+      <g:quantity>44</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725504872583</g:id>
+      <title>İpeksi Jakarlı Şal - Gri</title>
+      <description>İpeksi Jakarlı Şal - Gri. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/ipeksi-jakarli-sal-gri-43725504872583</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725504872583.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>579.99 TRY</g:price>
+      <g:sale_price>479.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8693224301569</g:gtin>
+      <g:mpn>43725504872583</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Gri</g:color>
+      <g:size>70x180 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>98</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725507887239</g:id>
+      <title>Kendinden Kırışık Dokulu Şal 190 cm - Pudra</title>
+      <description>Kendinden Kırışık Dokulu Şal 190 cm - Pudra. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/kendinden-kirisik-dokulu-sal-190-cm-pudra-43725507887239</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725507887239.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>559.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8697811457585</g:gtin>
+      <g:mpn>43725507887239</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Pudra</g:color>
+      <g:size>190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>219</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725517357191</g:id>
+      <title>Etnik Desenli Akışkan Şal - Ekru</title>
+      <description>Etnik Desenli Akışkan Şal - Ekru. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/etnik-desenli-akiskan-sal-ekru-43725517357191</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725517357191.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>479.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8696507022441</g:gtin>
+      <g:mpn>43725517357191</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>70x190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>129</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725524140167</g:id>
+      <title>Desenli Viskon Şal 95x95 cm - Kahve</title>
+      <description>Desenli Viskon Şal 95x95 cm - Kahve. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/desenli-viskon-sal-95x95-cm-kahve-43725524140167</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725524140167.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>589.99 TRY</g:price>
+      <g:sale_price>409.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8699231346609</g:gtin>
+      <g:mpn>43725524140167</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Kahve</g:color>
+      <g:size>95x95 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>93</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725524172935</g:id>
+      <title>Çiçek Desenli Şal 72x194 cm - Siyah</title>
+      <description>Çiçek Desenli Şal 72x194 cm - Siyah. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/cicek-desenli-sal-72x194-cm-siyah-43725524172935</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725524172935.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>469.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8699233109226</g:gtin>
+      <g:mpn>43725524172935</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>72x194 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>95</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725556940935</g:id>
+      <title>Floş Pamuk Şal 73x200 cm - Gri</title>
+      <description>Floş Pamuk Şal 73x200 cm - Gri. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/flos-pamuk-sal-73x200-cm-gri-43725556940935</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725556940935.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>489.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8692538224755</g:gtin>
+      <g:mpn>43725556940935</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Gri</g:color>
+      <g:size>73x200 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>12</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725558120583</g:id>
+      <title>Keten Dokulu Pamuklu Şal 190 cm - Bordo</title>
+      <description>Keten Dokulu Pamuklu Şal 190 cm - Bordo. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/keten-dokulu-pamuklu-sal-190-cm-bordo-43725558120583</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725558120583.jpg</g:image_link>
+      <g:availability>preorder</g:availability>
+      <g:price>479.99 TRY</g:price>
+      <g:sale_price>339.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8691627957222</g:gtin>
+      <g:mpn>43725558120583</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Bordo</g:color>
+      <g:size>190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>164</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725569228935</g:id>
+      <title>Desenli Viskon Şal 72x194 cm - Haki</title>
+      <description>Desenli Viskon Şal 72x194 cm - Haki. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/desenli-viskon-sal-72x194-cm-haki-43725569228935</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725569228935.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>479.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8694764228286</g:gtin>
+      <g:mpn>43725569228935</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Haki</g:color>
+      <g:size>72x194 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725586071687</g:id>
+      <title>Yumuşak Dokulu Düz Şal 190 cm - Vizon</title>
+      <description>Yumuşak Dokulu Düz Şal 190 cm - Vizon. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/yumusak-dokulu-duz-sal-190-cm-vizon-43725586071687</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725586071687.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>509.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8694034648912</g:gtin>
+      <g:mpn>43725586071687</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Vizon</g:color>
+      <g:size>190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>38</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725595803783</g:id>
+      <title>İç Göstermez Terletmeyen Şal 95x95 cm - Siyah</title>
+      <description>İç Göstermez Terletmeyen Şal 95x95 cm - Siyah. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/ic-gostermez-terletmeyen-sal-95x95-cm-siyah-43725595803783</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725595803783.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>539.99 TRY</g:price>
+      <g:sale_price>359.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8695670435171</g:gtin>
+      <g:mpn>43725595803783</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>95x95 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437255</g:item_group_id>
+      <g:quantity>39</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725633060999</g:id>
+      <title>Desenli Terletmeyen Şal 95x95 cm - Bej</title>
+      <description>Desenli Terletmeyen Şal 95x95 cm - Bej. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/desenli-terletmeyen-sal-95x95-cm-bej-43725633060999</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725633060999.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>579.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8697846122069</g:gtin>
+      <g:mpn>43725633060999</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Bej</g:color>
+      <g:size>95x95 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437256</g:item_group_id>
+      <g:quantity>98</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725638697095</g:id>
+      <title>Bambu Karışımlı Kolay Şekil Alan Şal - Antrasit</title>
+      <description>Bambu Karışımlı Kolay Şekil Alan Şal - Antrasit. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/bambu-karisimli-kolay-sekil-alan-sal-antrasit-43725638697095</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725638697095.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>429.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8693721265890</g:gtin>
+      <g:mpn>43725638697095</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Antrasit</g:color>
+      <g:size>70x180 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437256</g:item_group_id>
+      <g:quantity>242</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43725672317063</g:id>
+      <title>İpek Karışımlı Desenli Şal - Mürdüm</title>
+      <description>İpek Karışımlı Desenli Şal - Mürdüm. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/ipek-karisimli-desenli-sal-murdum-43725672317063</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43725672317063.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>879.99 TRY</g:price>
+      <g:sale_price>609.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8690978916803</g:gtin>
+      <g:mpn>43725672317063</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Mürdüm</g:color>
+      <g:size>90x90 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437256</g:item_group_id>
+      <g:quantity>68</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43779845652615</g:id>
+      <title>Çiçek Desenli Hafif Şal 93x93 cm - Ekru</title>
+      <description>Çiçek Desenli Hafif Şal 93x93 cm - Ekru. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/cicek-desenli-hafif-sal-93x93-cm-ekru-43779845652615</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43779845652615.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>409.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8692957996882</g:gtin>
+      <g:mpn>43779845652615</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>93x93 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-437798</g:item_group_id>
+      <g:quantity>30</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-43808094748807</g:id>
+      <title>Düz Renk Viskon Şal - Yağ Yeşili</title>
+      <description>Düz Renk Viskon Şal - Yağ Yeşili. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/duz-renk-viskon-sal-yag-yesili-43808094748807</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/43808094748807.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>359.99 TRY</g:price>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8696427559652</g:gtin>
+      <g:mpn>43808094748807</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Yağ Yeşili</g:color>
+      <g:size>70x190 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-438080</g:item_group_id>
+      <g:quantity>158</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>FRE-44563089129607</g:id>
+      <title>Desenli Uzun Viskon Şal 193 cm - Haki</title>
+      <description>Desenli Uzun Viskon Şal 193 cm - Haki. Fresh Scarf koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.freshscarf.com/products/desenli-uzun-viskon-sal-193-cm-haki-44563089129607</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/fresh_scarf/44563089129607.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>599.99 TRY</g:price>
+      <g:sale_price>379.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Fresh Scarf</g:brand>
+      <g:gtin>8694476032898</g:gtin>
+      <g:mpn>44563089129607</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>167</g:google_product_category>
+      <g:product_type>Kadın &gt; Tesettür &gt; Şal</g:product_type>
+      <g:color>Haki</g:color>
+      <g:size>193 cm</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>FRE-445630</g:item_group_id>
+      <g:quantity>163</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Fresh Scarf</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-191448735651</g:id>
+      <title>Çocuk Terlik - Lila</title>
+      <description>Çocuk Terlik - Lila. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/cocuk-terlik-lila-191448735651</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/191448735651.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>759.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8691427255245</g:gtin>
+      <g:mpn>191448735651</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1933</g:google_product_category>
+      <g:product_type>Çocuk &gt; Ayakkabı &gt; Terlik</g:product_type>
+      <g:color>Lila</g:color>
+      <g:size>31</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>SPO-191448</g:item_group_id>
+      <g:quantity>197</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-197804464081</g:id>
+      <title>Unisex Bilekli Sneaker - Siyah</title>
+      <description>Unisex Bilekli Sneaker - Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/unisex-bilekli-sneaker-siyah-197804464081</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/197804464081.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3329.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8698883824206</g:gtin>
+      <g:mpn>197804464081</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Ayakkabı &gt; Sneaker</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>42</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-197804</g:item_group_id>
+      <g:quantity>246</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Ayakkabı</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-197862929119</g:id>
+      <title>Erkek Koşu Ayakkabısı - Antrasit</title>
+      <description>Erkek Koşu Ayakkabısı - Antrasit. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-kosu-ayakkabisi-antrasit-197862929119</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/197862929119.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4979.99 TRY</g:price>
+      <g:sale_price>3459.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8691684509594</g:gtin>
+      <g:mpn>197862929119</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Koşu</g:product_type>
+      <g:color>Antrasit</g:color>
+      <g:size>43</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-197862</g:item_group_id>
+      <g:quantity>36</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-198633912958</g:id>
+      <title>Erkek Koşu Ayakkabısı - Siyah</title>
+      <description>Erkek Koşu Ayakkabısı - Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-kosu-ayakkabisi-siyah-198633912958</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/198633912958.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3779.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8694437626326</g:gtin>
+      <g:mpn>198633912958</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Koşu</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>44</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-198633</g:item_group_id>
+      <g:quantity>60</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-198688415459</g:id>
+      <title>Unisex Günlük Spor Ayakkabı - Gri</title>
+      <description>Unisex Günlük Spor Ayakkabı - Gri. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/unisex-gunluk-spor-ayakkabi-gri-198688415459</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/198688415459.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>4489.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8690887815204</g:gtin>
+      <g:mpn>198688415459</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Ayakkabı &gt; Sneaker</g:product_type>
+      <g:color>Gri</g:color>
+      <g:size>41</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-198688</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Ayakkabı</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-198739960242</g:id>
+      <title>Kız Çocuk Spor Ayakkabı - Lila</title>
+      <description>Kız Çocuk Spor Ayakkabı - Lila. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/kiz-cocuk-spor-ayakkabi-lila-198739960242</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/198739960242.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1959.99 TRY</g:price>
+      <g:sale_price>1349.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8697718120483</g:gtin>
+      <g:mpn>198739960242</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Çocuk &gt; Ayakkabı &gt; Spor Ayakkabı</g:product_type>
+      <g:color>Lila</g:color>
+      <g:size>33</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>SPO-198739</g:item_group_id>
+      <g:quantity>130</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4052605639136</g:id>
+      <title>Çocuk Cırt Cırtlı Sandalet - Gri</title>
+      <description>Çocuk Cırt Cırtlı Sandalet - Gri. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/cocuk-cirt-cirtli-sandalet-gri-4052605639136</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4052605639136.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>729.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8691904863543</g:gtin>
+      <g:mpn>4052605639136</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1933</g:google_product_category>
+      <g:product_type>Çocuk &gt; Ayakkabı &gt; Sandalet</g:product_type>
+      <g:color>Gri</g:color>
+      <g:size>29</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>SPO-405260</g:item_group_id>
+      <g:quantity>202</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4066746467275</g:id>
+      <title>3'lü Paket Antrenman Çorabı - Beyaz</title>
+      <description>3'lü Paket Antrenman Çorabı - Beyaz. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/3lu-paket-antrenman-corabi-beyaz-4066746467275</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4066746467275.jpg</g:image_link>
+      <g:availability>preorder</g:availability>
+      <g:price>369.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8694634862947</g:gtin>
+      <g:mpn>4066746467275</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>213</g:google_product_category>
+      <g:product_type>Spor &gt; Aksesuar &gt; Çorap</g:product_type>
+      <g:color>Beyaz</g:color>
+      <g:size>40-42</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406674</g:item_group_id>
+      <g:quantity>188</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>49.90 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Spor</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4067887357500</g:id>
+      <title>Erkek Antrenman Şortu - Siyah</title>
+      <description>Erkek Antrenman Şortu - Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-antrenman-sortu-siyah-4067887357500</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4067887357500.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1109.99 TRY</g:price>
+      <g:sale_price>859.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8698107391156</g:gtin>
+      <g:mpn>4067887357500</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5697</g:google_product_category>
+      <g:product_type>Erkek &gt; Spor Giyim &gt; Şort</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>L</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406788</g:item_group_id>
+      <g:quantity>246</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4067889667706</g:id>
+      <title>Erkek Koşu Ayakkabısı - Siyah / Beyaz</title>
+      <description>Erkek Koşu Ayakkabısı - Siyah / Beyaz. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-kosu-ayakkabisi-siyah-beyaz-4067889667706</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4067889667706.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>4379.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8690739726801</g:gtin>
+      <g:mpn>4067889667706</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Koşu</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>42</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406788</g:item_group_id>
+      <g:quantity>46</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4067903166871</g:id>
+      <title>Erkek Trekking Ayakkabısı - Kahve</title>
+      <description>Erkek Trekking Ayakkabısı - Kahve. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-trekking-ayakkabisi-kahve-4067903166871</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4067903166871.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3859.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8698179107938</g:gtin>
+      <g:mpn>4067903166871</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Outdoor</g:product_type>
+      <g:color>Kahve</g:color>
+      <g:size>43</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406790</g:item_group_id>
+      <g:quantity>229</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4067981522682</g:id>
+      <title>Erkek Futbol Forma Takımı - Lacivert</title>
+      <description>Erkek Futbol Forma Takımı - Lacivert. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-futbol-forma-takimi-lacivert-4067981522682</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4067981522682.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1619.99 TRY</g:price>
+      <g:sale_price>1179.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8692241397852</g:gtin>
+      <g:mpn>4067981522682</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5697</g:google_product_category>
+      <g:product_type>Erkek &gt; Spor Giyim &gt; Forma</g:product_type>
+      <g:color>Lacivert</g:color>
+      <g:size>M</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406798</g:item_group_id>
+      <g:quantity>170</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4067983745577</g:id>
+      <title>Çocuk Koşu Ayakkabısı - Beyaz / Siyah</title>
+      <description>Çocuk Koşu Ayakkabısı - Beyaz / Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/cocuk-kosu-ayakkabisi-beyaz-siyah-4067983745577</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4067983745577.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1519.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8697889974410</g:gtin>
+      <g:mpn>4067983745577</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Çocuk &gt; Ayakkabı &gt; Koşu</g:product_type>
+      <g:color>Beyaz</g:color>
+      <g:size>34</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>SPO-406798</g:item_group_id>
+      <g:quantity>116</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4068805166402</g:id>
+      <title>Antrenman Sırt Çantası - Bordo</title>
+      <description>Antrenman Sırt Çantası - Bordo. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/antrenman-sirt-cantasi-bordo-4068805166402</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4068805166402.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1289.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8690483206734</g:gtin>
+      <g:mpn>4068805166402</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>100</g:google_product_category>
+      <g:product_type>Spor &gt; Aksesuar &gt; Sırt Çantası</g:product_type>
+      <g:color>Bordo</g:color>
+      <g:size>Std</g:size>
+      <g:gender>unisex</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406880</g:item_group_id>
+      <g:quantity>228</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Spor</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-4069162805263</g:id>
+      <title>Erkek Koşu Ayakkabısı - Siyah</title>
+      <description>Erkek Koşu Ayakkabısı - Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-kosu-ayakkabisi-siyah-4069162805263</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/4069162805263.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3389.99 TRY</g:price>
+      <g:sale_price>2619.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8692095624807</g:gtin>
+      <g:mpn>4069162805263</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Koşu</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>45</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-406916</g:item_group_id>
+      <g:quantity>14</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-5401246303521</g:id>
+      <title>Kadın Baskılı Tişört - Ekru</title>
+      <description>Kadın Baskılı Tişört - Ekru. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/kadin-baskili-tisort-ekru-5401246303521</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/5401246303521.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>689.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8697782158115</g:gtin>
+      <g:mpn>5401246303521</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Kadın &gt; Spor Giyim &gt; Tişört</g:product_type>
+      <g:color>Ekru</g:color>
+      <g:size>S</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-540124</g:item_group_id>
+      <g:quantity>48</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-5715830354562</g:id>
+      <title>Erkek Kısa Kollu Gömlek - Mavi</title>
+      <description>Erkek Kısa Kollu Gömlek - Mavi. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-kisa-kollu-gomlek-mavi-5715830354562</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/5715830354562.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1609.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8693861245189</g:gtin>
+      <g:mpn>5715830354562</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:product_type>Erkek &gt; Giyim &gt; Gömlek</g:product_type>
+      <g:color>Mavi</g:color>
+      <g:size>L</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-571583</g:item_group_id>
+      <g:quantity>23</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-8421225615725</g:id>
+      <title>Çocuk Sandalet - Lila</title>
+      <description>Çocuk Sandalet - Lila. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/cocuk-sandalet-lila-8421225615725</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/8421225615725.jpg</g:image_link>
+      <g:availability>out of stock</g:availability>
+      <g:price>1079.99 TRY</g:price>
+      <g:sale_price>829.99 TRY</g:sale_price>
+      <g:sale_price_effective_date>2026-09-11T00:00:00+0300/2026-10-11T23:59:59+0300</g:sale_price_effective_date>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8692324416586</g:gtin>
+      <g:mpn>8421225615725</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1933</g:google_product_category>
+      <g:product_type>Çocuk &gt; Ayakkabı &gt; Sandalet</g:product_type>
+      <g:color>Lila</g:color>
+      <g:size>30</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>kids</g:age_group>
+      <g:item_group_id>SPO-842122</g:item_group_id>
+      <g:quantity>0</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>indirim</g:custom_label_1>
+      <g:custom_label_2>Çocuk</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-8682902954265</g:id>
+      <title>Kadın Jogger Eşofman Altı - Zümrüt</title>
+      <description>Kadın Jogger Eşofman Altı - Zümrüt. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/kadin-jogger-esofman-alti-zumrut-8682902954265</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/8682902954265.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>1639.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8699509709846</g:gtin>
+      <g:mpn>8682902954265</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>5697</g:google_product_category>
+      <g:product_type>Kadın &gt; Spor Giyim &gt; Eşofman Altı</g:product_type>
+      <g:color>Zümrüt</g:color>
+      <g:size>M</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-868290</g:item_group_id>
+      <g:quantity>212</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Kadın</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>SPO-8683906668226</g:id>
+      <title>Erkek Outdoor Bot - Siyah</title>
+      <description>Erkek Outdoor Bot - Siyah. Sporthink koleksiyonundan, test amaçlı oluşturulmuş ürün kaydı.</description>
+      <link>https://www.sporthink.com/p/erkek-outdoor-bot-siyah-8683906668226</link>
+      <g:image_link>https://raw.githubusercontent.com/chubarkul/tr3-test-feed/main/images/sporthink/8683906668226.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>3109.99 TRY</g:price>
+      <g:brand>Sporthink</g:brand>
+      <g:gtin>8691522379105</g:gtin>
+      <g:mpn>8683906668226</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>187</g:google_product_category>
+      <g:product_type>Erkek &gt; Ayakkabı &gt; Bot</g:product_type>
+      <g:color>Siyah</g:color>
+      <g:size>43</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>SPO-868390</g:item_group_id>
+      <g:quantity>158</g:quantity>
+      <g:shipping>
+        <g:country>TR</g:country>
+        <g:service>Standart Kargo</g:service>
+        <g:price>0.00 TRY</g:price>
+      </g:shipping>
+      <g:custom_label_0>Sporthink</g:custom_label_0>
+      <g:custom_label_1>tam fiyat</g:custom_label_1>
+      <g:custom_label_2>Erkek</g:custom_label_2>
+    </item>
+  </channel>
+</rss>
